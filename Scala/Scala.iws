@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18580b26-e3f2-4e80-be63-4c66c4caa008" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Day1/Day1Code.cs" afterPath="$PROJECT_DIR$/src/Day1/Loops/C#Loops.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Day1/Day1Code.java" afterPath="$PROJECT_DIR$/src/Day1/Loops/JavaLoops.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Day1/Day1Code.scala" afterPath="$PROJECT_DIR$/src/Day1/Loops/ScalaLoops.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Day1/Classes/JavaCompass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Day1/Classes/ScalaCompass.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scala.iws" afterPath="$PROJECT_DIR$/Scala.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala" afterPath="$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala" />
     </list>
     <ignored path="Scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,10 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaTuple.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JavaTuple.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/JavaTuple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C#Tuple.cs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/C#Tuple.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="185" column="50" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,7 +102,25 @@
       <file leaf-file-name="ScalaTuple.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="7" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+            <state line="13" column="22" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScalaCompass.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day1/Classes/ScalaCompass.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="111" selection-start="384" selection-end="384" vertical-scroll-proportion="0.25373134">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaCompass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day1/Classes/JavaCompass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,8 +165,11 @@
         <option value="$PROJECT_DIR$/src/Day1/ScalaLoops.scala" />
         <option value="$PROJECT_DIR$/src/Day1/C#Loops.cs" />
         <option value="$PROJECT_DIR$/src/Day1/Loops/JavaLoops.java" />
-        <option value="$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala" />
         <option value="$PROJECT_DIR$/src/Day1/Tuple/JavaTuple.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala" />
+        <option value="$PROJECT_DIR$/src/Day1/Classes/Compass.scala" />
+        <option value="$PROJECT_DIR$/src/Day1/Classes/JavaCompass.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Classes/ScalaCompass.scala" />
       </list>
     </option>
   </component>
@@ -235,6 +265,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Loops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -611,9 +663,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala">
+    <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/C#Tuple.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="7" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+        <state line="185" column="50" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -621,6 +673,27 @@
     <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/JavaTuple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Tuple/ScalaTuple.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Classes/JavaCompass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Classes/ScalaCompass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="111" selection-start="384" selection-end="384" vertical-scroll-proportion="0.25373134">
           <folding />
         </state>
       </provider>

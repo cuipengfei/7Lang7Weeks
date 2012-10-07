@@ -12,6 +12,5 @@ class ScalaTuple {
     var person = ("tom", 25)
     println(person._1)
     println(person._2)
-    Tuple2
   }
 }
