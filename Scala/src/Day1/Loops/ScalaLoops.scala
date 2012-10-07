@@ -1,4 +1,4 @@
-package Day1
+package Day1.Loops
 
 /**
  * Created with IntelliJ IDEA.
@@ -7,7 +7,7 @@ package Day1
  * Time: 1:05 PM
  * To change this template use File | Settings | File Templates.
  */
-class Day1Code {
+class ScalaLoops {
   def whileLoop {
     var i = 0
     while (i < 5) {

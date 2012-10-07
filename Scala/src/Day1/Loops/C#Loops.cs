@@ -201,7 +201,7 @@ namespace Day1
 		111,
 		112
 	})]
-	public class Day1Code : ScalaObject
+	public class C#Loops : ScalaObject
 	{
 		[Symtab]
 		public sealed class $anonfun$forLoop$1 : AbstractFunction1$mcVI$sp, Serializable

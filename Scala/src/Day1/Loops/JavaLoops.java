@@ -1,4 +1,4 @@
-/*    */ package Day1;
+/*    */ package Day1.Loops;
 /*    */ 
 /*    */ import scala.Predef.;
 /*    */ import scala.ScalaObject;
@@ -12,7 +12,7 @@
 /*    */ import scala.runtime.RichInt;
 /*    */ 
 /*    */ @ScalaSignature(bytes="\006\001\r2A!\001\002\001\013\tAA)Y=2\007>$WMC\001\004\003\021!\025-_\031\004\001M\031\001A\002\b\021\005\035aQ\"\001\005\013\005%Q\021\001\0027b]\036T\021aC\001\005U\0064\030-\003\002\016\021\t1qJ\0316fGR\004\"a\004\n\016\003AQ\021!E\001\006g\016\fG.Y\005\003'A\0211bU2bY\006|%M[3di\")Q\003\001C\001-\0051A(\0338jiz\"\022a\006\t\0031\001i\021A\001\005\0065\001!\taG\001\no\"LG.\032'p_B,\022\001\b\t\003\037uI!A\b\t\003\tUs\027\016\036\005\006A\001!\taG\001\bM>\024Hj\\8q\021\025\021\003\001\"\001\034\003-1wN]3bG\"dun\0349")
-/*    */ public class Day1Code
+/*    */ public class JavaLoops
 /*    */   implements ScalaObject
 /*    */ {
 /*    */   public void whileLoop()
@@ -46,6 +46,6 @@
 /*    */ }
 
 /* Location:           /Users/twer/Documents/CodeCollection/7Lang7Weeks/Scala/out/production/Scala/
- * Qualified Name:     Day1.Day1Code
+ * Qualified Name:     Day1.Loops.JavaLoops
  * JD-Core Version:    0.6.1
  */
