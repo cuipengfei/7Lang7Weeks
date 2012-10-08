@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18580b26-e3f2-4e80-be63-4c66c4caa008" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Day1/Classes/ScalaPerson.scala" />
-    </list>
+    <list default="true" id="18580b26-e3f2-4e80-be63-4c66c4caa008" name="Default" comment="" />
     <ignored path="Scala.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +61,7 @@
       <file leaf-file-name="ScalaPerson.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Day1/Classes/ScalaPerson.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="378" selection-end="378" vertical-scroll-proportion="0.4744186">
+            <state line="14" column="33" selection-start="342" selection-end="342" vertical-scroll-proportion="0.36899224">
               <folding />
             </state>
           </provider>
@@ -621,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day1/Classes/ScalaPerson.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="378" selection-end="378" vertical-scroll-proportion="0.4744186">
+        <state line="14" column="33" selection-start="342" selection-end="342" vertical-scroll-proportion="0.36899224">
           <folding />
         </state>
       </provider>
