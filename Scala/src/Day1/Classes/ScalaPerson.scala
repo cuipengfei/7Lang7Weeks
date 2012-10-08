@@ -7,7 +7,7 @@ package Day1.Classes
  * Time: 8:52 PM
  * To change this template use File | Settings | File Templates.
  */
-class Person(firstName: String) {
+class ScalaPerson(firstName: String) {
   println("Outer constructor")
 
   def this(firstName: String, lastName: String) {
