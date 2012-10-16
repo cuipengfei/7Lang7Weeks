@@ -10,6 +10,5 @@ package Day2.FP
 class ScalaFP {
   def testFP {
     val myList = List("str1", "str2", "third string", "fourth string")
-    myList.filter(item => item.length() > 4)
-  }
+    myList.filter(item => item.length() > 4)}
 }
